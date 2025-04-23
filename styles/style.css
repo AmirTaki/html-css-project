@@ -27,6 +27,7 @@ body{
     max-width: 1200px;
 }
 
+
 /* header */
 .header{
     background-color: orange;
@@ -47,9 +48,6 @@ body{
 .hero-img img{
     max-width: 100%;
 }
-
-
-
 
 
 
@@ -83,3 +81,4 @@ body{
 .card-body{
     padding: 20px 10px;
 }
+
