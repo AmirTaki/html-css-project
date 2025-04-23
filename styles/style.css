@@ -66,6 +66,7 @@ body{
 .katooni-item-col{
     padding: 16px;
     width: 100%;
+    
 }
 .katooni-card{
     border: 1px solid #b9b9b9;
@@ -94,3 +95,17 @@ body{
     color: black;
     font-size: 30px;
 }
+
+
+/* responsive */
+@media screen and (min-width : 768px) {
+    .katooni-item-col{
+        width: 50%;
+    }
+}
+@media screen and (min-width : 992px) {
+    .katooni-item-col{
+        width: 25%;
+    }
+}
+
